@@ -1,7 +1,7 @@
 
 
 
-
+# ui data dale wo save ho gia ga data base ma or api ma bhi 
 # step # 1
 ## sab ha phale src/ folder ma file create kare 
 ###### lib/folderis ka ander file lib.js
